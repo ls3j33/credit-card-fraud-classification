@@ -1,1 +1,16 @@
-pandas>=1.5.0
+# Основные с совместимыми версиями
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+ipykernel
+
+# Для моделей
+scikit-learn-intelex  # ускорит sklearn
+imbalanced-learn
+
+# Для визуализации
+plotly
